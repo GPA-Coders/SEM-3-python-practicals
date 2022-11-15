@@ -9,3 +9,7 @@ elif bmi >= 19 and bmi <= 25:
     print("Healthy")
 else:
     print("Overweight")
+    
+# Enter weight : 70
+# Enter height : 1.8
+# Healthy
